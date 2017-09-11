@@ -8,7 +8,7 @@ public class DataBaseConnection {
 	private static String DBDRIVER="com.mysql.jdbc.Driver" ;
 	private static String DBURL="jdbc:mysql://localhost:3306/msc?characterEncoding=utf-8&&useSSL=true" ;
 	private static String DBUSER="root" ;
-	private static String DBPASSWORD="pHG7MBULZrOO" ;
+	private static String DBPASSWORD="Gj314159" ;
 	private static Connection conn=null ;
 
 //	static{
